@@ -17,6 +17,9 @@ Only what you choose to send. When you export a trip, Folio builds a file and ha
 ## What Folio does not do
 No account, no sign-in, no analytics, no advertising, no tracking. Folio does not collect data about you.
 
+## Android: Google ML Kit
+On Android, Folio reads receipt text with Google's ML Kit, which runs on the device. ML Kit sends Google limited technical information about its own operation: device information, the app's name and version, an installation identifier, and performance and error data. It does not send receipt images, receipt text or amounts. See Google's ML Kit terms for details.
+
 ## Crash reports
 If you allow it in your phone's settings, Apple or Google may share anonymous crash reports with the developer.
 
