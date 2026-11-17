@@ -1,5 +1,7 @@
 # Folio Privacy Policy
 
+Last updated: November 17, 2026
+
 Folio is a receipt capture tool for Hargrove Engineers & Constructors employees, on iPhone and Android.
 
 ## What Folio stores
@@ -27,4 +29,4 @@ If you allow it in your phone's settings, Apple or Google may share anonymous cr
 Deleting a receipt removes it from the device. Deleting Folio removes all of its data.
 
 ## Contact
-Joshua Payne, JPayne@hargrove-epc.com
+Joshua Payne, app_feedback@hargrove-epc.com
